@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Krusty Krab",
+        "food": ["Fish"],
+        "drinks": ["Vodka", "GiN", "WhiSky", "Rum", "TeQuila", "Soft drinks", "beer", "Coffee"]
+    },
+    {
+        "name": "Los Pollos",
+        "food": ["Chicken"],
+        "drinks": ["Soft Drinks", "Rum", "Beer", "Whisky", "Cider"]
+    }
+]

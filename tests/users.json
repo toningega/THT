@@ -1,0 +1,17 @@
+[
+    {
+        "name": "picky eater",
+        "wont_eat": ["Fish","chicken"],
+        "drinks": ["Vodka", "GiN", "WhiSky", "Rum", "Tequila", "Soft drinks", "beer", "Coffee"]
+    },    
+    {
+        "name": "picky drinker",
+        "wont_eat": [],
+        "drinks": []
+    },
+    {
+        "name": "eats_everything person",
+        "wont_eat": [],
+        "drinks": ["Vodka", "GiN", "WhiSky", "Rum", "Tequila", "Soft drinks", "beer", "Coffee"]
+    }
+]
